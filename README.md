@@ -21,21 +21,18 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name      : Mohit Gautam
-degree    : B.Tech 3rd Year @ IIT Kharagpur
+**Mohit Gautam** &mdash; B.Tech 3rd Year @ IIT Kharagpur
 
-passions  :
-  - Agentic AI, RAG & Multi-Agent Workflows
-  - Scalable Backend Systems & Microservices
-  - Distributed Systems & High-Performance Computing
-  - Developer Tools & Open Source
+**Passionate about:**
+- Agentic AI, RAG & Multi-Agent Workflows
+- Scalable Backend Systems & Microservices
+- Distributed Systems & High-Performance Computing
+- Developer Tools & Open Source
 
-currently :
-  - Building AI-powered apps with LangChain, LangGraph & Azure OpenAI
-  - Exploring Go for high-performance backend services
-  - Grinding DSA on Codeforces & LeetCode
-```
+**Currently:**
+- Building AI-powered apps with LangChain, LangGraph & Azure OpenAI
+- Exploring Go for high-performance backend services
+- Grinding DSA on Codeforces & LeetCode
 
 ---
 
@@ -156,7 +153,7 @@ currently :
 
 ## 🛠️ Tech Stack
 
-**📝 Languages & Frameworks**
+**Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -171,7 +168,7 @@ currently :
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
 
-**🤖 AI / ML**
+**AI / ML**
 
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
@@ -179,7 +176,7 @@ currently :
 ![OCR](https://img.shields.io/badge/OCR-00897B?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector%20Search-DC244C?style=for-the-badge)
 
-**🗄️ Databases & Infra**
+**Databases & Infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
