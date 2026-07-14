@@ -2,7 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohit%20Gautam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20IIT%20Kharagpur&descAlignY=57&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+3rd+Year+%40+IIT+Kharagpur+%F0%9F%8E%93;SDE+Intern+%40+Pine+Labs+%E2%9C%85+(May%E2%80%93Jun+2026);Agentic+AI+%7C+RAG+%7C+LLMs+%7C+Backend+Systems+%F0%9F%A4%96;Competitive+Programmer+%7C+Codeforces+%7C+LeetCode+%F0%9F%8F%86;Building+Scalable+Systems+%26+AI+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+3rd+Year+%40+IIT+Kharagpur;SDE+Intern+%40+Pine+Labs+(May%E2%80%93Jun+2026);Agentic+AI+%7C+RAG+%7C+LLMs+%7C+Backend+Systems;Competitive+Programmer+%7C+Codeforces+%7C+LeetCode;Building+Scalable+Systems+%26+AI+Products" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-gautam-543834318/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohit.gautam_24/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitgautam2472028@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MG247)
 
 <br/>
 
@@ -183,29 +190,13 @@ currently :
 
 ---
 
-## 🎓 Education
-
-| Year | Degree / Exam | Institute |
-|------|-------------|----------|
-| 2028 | B.Tech 3rd Year | IIT Kharagpur |
-| 2024 | CBSE Class XII | GreenWood Public School |
-| 2022 | CBSE Class X | GreenWood Public School |
-
----
-
 ## 🏆 Achievements
 
 - 🏅 **GC OpenSoft, IIT KGP** — Built NEXTBULL, a high-performance exchange simulator & algo trading platform
 - 🎯 Regular competitive programmer on **Codeforces & LeetCode** — DSA & problem-solving
 - 🚀 Hands-on with **Agentic AI, LLMs, backend engineering & distributed systems**
 
----
-
-## 🔗 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-MG247-181717?style=for-the-badge&logo=github)](https://github.com/MG247)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Gautam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-link-here)
-
 <div align="center">
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
