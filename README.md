@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohit%20Gautam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20IIT%20Kharagpur&descAlignY=57&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,43,73&height=200&section=header&text=Mohit%20Gautam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20IIT%20Kharagpur&descAlignY=57&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+3rd+Year+%40+IIT+Kharagpur;SDE+Intern+%40+Pine+Labs+(May%E2%80%93Jun+2026);Agentic+AI+%7C+RAG+%7C+LLMs+%7C+Backend+Systems;Competitive+Programmer+%7C+Codeforces+%7C+LeetCode;Building+Scalable+Systems+%26+AI+Products" alt="Typing SVG" />
 
