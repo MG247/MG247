@@ -168,33 +168,6 @@ currently:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MG247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MG247&theme=tokyonight&hide_border=true" width="47%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MG247&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MG247&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MG247&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
 ## 🔗 Let's Connect
 
 <div align="center">
