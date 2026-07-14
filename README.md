@@ -40,7 +40,7 @@ currently:
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://images.seeklogo.com/logo-png/46/2/pine-labs-logo-png_seeklogo-461867.png" width="80" alt="Pine Labs" />
+      <img src="https://companieslogo.com/img/orig/pinelabs_BIG.D-6311ba42.png?t=1720244494" width="80" alt="Pine Labs" />
     </td>
     <td>
       <strong>🏢 SDE Intern — Pine Labs Ltd.</strong><br/>
