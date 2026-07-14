@@ -39,7 +39,9 @@ currently:
 
 <table>
   <tr>
-    <td align="center" width="80"><img src="https://img.shields.io/badge/-Pine%20Labs-FF6B00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=" /></td>
+    <td align="center" width="100">
+      <img src="https://images.seeklogo.com/logo-png/46/2/pine-labs-logo-png_seeklogo-461867.png" width="80" alt="Pine Labs" />
+    </td>
     <td>
       <strong>🏢 SDE Intern — Pine Labs Ltd.</strong><br/>
       <sub>May 2026 – July 2026 | Noida, India</sub><br/>
@@ -49,7 +51,7 @@ currently:
     </td>
   </tr>
   <tr>
-    <td align="center" width="80">🧠</td>
+    <td align="center" width="100">🧠</td>
     <td>
       <strong>Campus Ambassador — Perplexity AI</strong><br/>
       <sub>2024 – Present</sub><br/>
