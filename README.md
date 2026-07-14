@@ -6,12 +6,20 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-gautam-543834318/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohit.gautam_24/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitgautam2472028@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MG247)
+<a href="https://www.linkedin.com/in/mohit-gautam-543834318/">
+  <img src="https://img.magnific.com/premium-vector/round-linkedin-logo-isolated-white-background_469489-985.jpg?semt=ais_hybrid&w=740&q=80" width="48" height="48" alt="LinkedIn" style="border-radius:50%;margin:6px" />
+</a>
+<a href="https://www.instagram.com/mohit.gautam_24/">
+  <img src="https://img.magnific.com/premium-psd/instagram-logo-social-media-icon_705838-13489.jpg?semt=ais_hybrid&w=740&q=80" width="48" height="48" alt="Instagram" style="border-radius:50%;margin:6px" />
+</a>
+<a href="mailto:mohitgautam2472028@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="48" height="48" alt="Gmail" style="margin:6px" />
+</a>
+<a href="https://github.com/MG247">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-8630395.png?f=webp" width="48" height="48" alt="GitHub" style="margin:6px" />
+</a>
 
-<br/>
+<br/><br/>
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MG247.MG247&left_color=gray&right_color=blue)](https://github.com/MG247)
 
